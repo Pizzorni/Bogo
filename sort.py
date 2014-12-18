@@ -23,8 +23,8 @@ def main():
 	bogobogotime = t1-t0
 
 
-	print("Normal sort: " + str(normsort) + "\n Bogosort: "
-	 + str(bogotime) + "\n Bogobogosort: " + str(bogobogotime))
+	print("Normal sort: " + str(normsort) + "\nBogosort: "
+	 + str(bogotime) + "\nBogobogosort: " + str(bogobogotime))
 
 
 def Bogosort(list):
