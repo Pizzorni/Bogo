@@ -1,7 +1,7 @@
 Bogo
 ====
 
-Simple implementation of the two most efficient sorting algorithms, Bogosort and Bogobogosort. Project originally in java but scrapped because generics.
+Simple implementation of the two most efficient sorting algorithms, Bogosort and Bogobogosort. Optional code to test speed of the built-in Python sort vs. Bogo vs. Bogobogo.
 
 #TODO
 Implement Quantum Bogosort
